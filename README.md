@@ -4,10 +4,10 @@
 Projet réalisé sur Cisco Packet Tracer mettant en oeuvre le routage inter-VLAN en utilisant la méthode "Router-on-a-stick", qui utilise un routeur pour permettre la communication entre les VLAN
 
 ## Équipements utilisés
-1 Router 2911
-1 Switch 2960
-2 PC
-2 Laptop
+1 Router 2911    
+1 Switch 2960    
+2 PC     
+2 Laptop   
 
 ## Configuration principale
 Création des VLAN    
