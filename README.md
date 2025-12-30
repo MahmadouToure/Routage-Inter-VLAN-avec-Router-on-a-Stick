@@ -10,8 +10,8 @@ Projet réalisé sur Cisco Packet Tracer mettant en oeuvre le routage inter-VLAN
 2 Laptop
 
 ## Configuration principale
-Création des VLAN
-Configuration du Trunk entre commutateur et routeur
-Création des sous-interfaces sur le routeur
-Adressage manuel des IP sur routeur et hôtes finaux
-Test de connectivité
+Création des VLAN    
+Configuration du Trunk entre commutateur et routeur    
+Création des sous-interfaces sur le routeur   
+Adressage manuel des IP sur routeur et hôtes finaux   
+Test de connectivité   
