@@ -1,7 +1,10 @@
 # Routage-Inter-VLAN-avec-Router-on-a-Stick
 
 ## Description 
-Projet réalisé sur Cisco Packet Tracer mettant en oeuvre le routage inter-VLAN en utilisant la méthode "Router-on-a-stick", qui utilise un routeur pour permettre la communication entre les VLAN
+Projet réalisé sur Cisco Packet Tracer mettant en oeuvre le routage inter-VLAN en utilisant la méthode "Router-on-a-stick", qui utilise un routeur pour permettre la communication entre les VLAN    
+
+## Objectifs
+Permettre la communication entre les différents VLAN  
 
 ## Équipements utilisés
 1 Router 2911    
